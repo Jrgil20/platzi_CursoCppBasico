@@ -35,3 +35,16 @@ Este curso de C++ de Platzi está diseñado para enseñar los fundamentos del le
 ### Funciones
 15. [Qué son las funciones](clase15.md)
 16. [La biblioteca estándar de C++](clase16.md)
+
+## Opiniones del Curso
+
+En términos generales, el curso es pobre. pero tiene lo basico para empezar a programar en C++.
+
+### Ventajas
+- Es simple.
+- Tiene lo esencial.
+
+### Desventajas
+- No profundiza en los temas.
+- No tiene ejercicios prácticos.
+- No tiene ejemplos reales.
