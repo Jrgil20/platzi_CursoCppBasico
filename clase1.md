@@ -1,0 +1,3 @@
+# Historia de C++
+
+C++ es un lenguaje de programación de propósito general creado por Bjarne Stroustrup en 1979 en los laboratorios Bell. Originalmente, fue una extensión del lenguaje C, añadiendo características de programación orientada a objetos. La primera versión comercial de C++ fue lanzada en 1985. Desde entonces, ha evolucionado significativamente, con la estandarización del lenguaje en 1998 (C++98), y posteriores revisiones como C++03, C++11, C++14, C++17 y C++20. C++ es conocido por su eficiencia y flexibilidad, siendo ampliamente utilizado en sistemas operativos, desarrollo de videojuegos, aplicaciones en tiempo real y más.
